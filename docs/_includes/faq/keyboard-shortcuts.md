@@ -7,3 +7,5 @@ Alternatively you can stumble directly into Final Cut Pro's [Command Editor](htt
 It features a very good search field and a complete list of all commands, including small descriptions for every command.
 
 It's a built-in resource to learn more about the capabilities of Final Cut Pro.
+
+![FCP Command Editor explanation](https://github.com/user-attachments/assets/4f7eb7ac-7095-496c-a510-e583c76b93d5)
